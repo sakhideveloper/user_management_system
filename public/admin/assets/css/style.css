@@ -1,0 +1,252 @@
+.spacer {
+    margin: 10px;
+}
+
+button.accordion-button {
+    background: inherit !important;
+}
+
+.product-data {
+    font-size: 14px;
+    margin: 20px 10px;
+}
+
+.choose-product {
+    margin: 10px 10px;
+}
+
+.dd-product-type {
+    width: 218px !important;
+}
+
+.product-type {
+    border-bottom: 1px solid #ced4da;
+}
+
+.dd-product {
+    background: #fff;
+    color: black;
+    border: 1px solid rgb(63, 60, 60);
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #212529;
+    background-color: #ced4da;
+}
+
+.nav-pills .nav-link {
+    border-radius: 0px;
+}
+
+button.nav-link {
+    border-bottom: 1px solid #ced4da !important;
+    text-align: left;
+}
+
+.left-items {
+    border-right: 1px solid #ced4da;
+}
+
+i.fa.icn {
+    margin-right: 22px;
+}
+
+.inline-label {
+    width: 120px;
+}
+
+.btn-upload {
+    width: 100% !important;
+    margin: -52px 0px 0px 0px !important;
+    border: none !important;
+    border-radius: 0px !important;
+}
+
+.imagePreview {
+    width: 100%;
+    height: 180px;
+    background-position: center center;
+    background: url(http://cliquecities.com/assets/no-image-e3699ae23f866f6cbdf8ba2443ee5c4e.jpg);
+    background-color: #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 0px -3px 6px 2px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary {
+    display: block !important;
+    border-radius: 0px !important;
+    box-shadow: 0px 4px 6px 2px rgba(0, 0, 0, 0.2) !important;
+    margin-top: -5px !important;
+}
+
+.imgUp {
+    margin-bottom: 15px;
+}
+
+.del {
+    position: absolute;
+    top: 0px;
+    right: 15px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    background-color: rgba(255, 255, 255, 0.6);
+    cursor: pointer;
+}
+
+.imgAdd {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #4bd7ef;
+    color: #fff;
+    box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    line-height: 30px;
+    margin-top: 0px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.ml-10 {
+    margin-left: 10px !important;
+}
+
+.prod-select {
+    position: absolute;
+    margin-left: 159px;
+    margin-top: 4px;
+    z-index: 21;
+    height: 41px;
+    width: 29%;
+}
+
+.tab-content {
+    width: 75%;
+    display: block;
+    margin-left: 25%;
+    min-height: 250px;
+}
+
+.nav-pills {
+    position: absolute;
+    height: 100%;
+    display: block;
+    background-color: #f8f8fb;
+    width: 23.6%;
+}
+
+.align-items-start {
+    position: relative;
+}
+
+.nav-link {
+    width: 100%;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.plt-20 {
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.accordion-header {
+    border-bottom: .5px solid #c1c1c1
+}
+
+.tree-top {
+    margin-left: 1px;
+    list-style: none;
+    margin-top: 11px;
+}
+
+.tree-child {
+    list-style: none;
+    margin-left: 4px;
+}
+
+.tree-box {
+    max-height: 184px;
+    height: 184px;
+    display: block;
+    overflow: auto;
+}
+
+.tree-box-b {
+    display: block;
+    border-radius: 0px;
+    margin-top: -20px;
+}
+
+.tree-box-b>a {
+    display: block;
+    border-radius: 0px;
+}
+
+.multipul>div>.select2-container {
+    width: 261px !important;
+    margin: 10px;
+}
+
+.btn-form {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.w-att-list {
+    width: 95%;
+    margin-left: 10px;
+    padding: 4px;
+    background-color: #ffffff;
+}
+#attached-attribute tr{
+    border-top: 1px #f4f4f8 solid;
+}
+
+.b-sm {
+    width: 31px;
+    height: 26px;
+    padding: 3px;
+}
+.oah{
+    height: 200px;
+}
+input.nu {
+    display: block;
+    padding: .47rem .75rem;
+    font-size: .8125rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+}
+.hide{
+    display: none;
+}
+float-right{
+    float: right;
+}
+.img-preview{   
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}   
+.dz-image img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+} 

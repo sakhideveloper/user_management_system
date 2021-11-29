@@ -1,0 +1,67 @@
+/*--------------------------------------------------------------
+
+  Template Name: Subas Ecommerce Responsive Bootstrap Template
+  Description: This is html5 template
+  Author: codecarnival
+  Version: 1.0
+  Design and Developed by: codecarnival
+
+Note: This is the file where you can add your custom styles to change the look of the theme. But don't modify "style.css" file.
+
+---------------------------------------------------------------*/
+
+/* ----------------------------------------------------
+	You can put your custom css code here: 
+-------------------------------------------------------*/
+.header-middle-area.plr-185 {
+    background: rgba(246, 246, 246, 0.99) none repeat scroll 0 0;
+}
+.logo {
+    padding: 8px 0 !important;
+    transition: all 0.3s ease 0s;
+}
+.main-menu > li {
+    padding: 17px 0 !important;
+
+ }   
+ .total-cart {
+    padding: 0px 0 !important;
+}
+.header-search {
+    padding: 18px 0px 10px !important;
+}
+.main-menu > li {
+    margin: 10px 18px !important;
+}
+.bg-opacity-black-60:before {
+    background: transparent !important;
+}
+.bg-3{
+background-attachment: unset !important;	
+}
+.ptb-150 {
+    padding: 300px 0 !important;
+}
+@media(max-width:767px){
+ .product-item.product-item-2.slick-slide {
+    width: 30% !important;
+} 
+.product-item.product-item-2.slick-slide.slick-current.slick-active {
+    width: 30% !important;
+}
+
+}
+.after-slider.pt090 {
+    margin-top: 4em;
+}
+.after-slider.pt090 p {
+    color: #000 !important;
+    font-size: 14px;
+    line-height: 22px;
+}
+p.sm-banner-txt {
+    color: #000 !important;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
