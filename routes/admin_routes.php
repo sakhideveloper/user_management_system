@@ -15,7 +15,7 @@ use App\Http\Controllers\Backend\DashboardController;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::middleware(['auth','Admin'])->group(function () {
+Route::middleware(['auth','admin'])->group(function () {
     /***
      * Product Section
      * */

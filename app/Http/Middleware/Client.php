@@ -16,8 +16,8 @@ class Client
      */
     public function handle(Request $request, Closure $next)
     {
-        if(Auth::user()->user_role!=customerRole())
-        return redirect('/');
+        if(Auth::user()->user_role!=2)
+        return redirect('/dashboard');
         return $next($request);
     }
 }
